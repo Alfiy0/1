@@ -1,4 +1,4 @@
 # Subdomain Takeover By Alfiya
 
-2
-2
+admin.login.gh.allegrogroup.com
+
